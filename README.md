@@ -1,10 +1,10 @@
-# Identifying mutations in Next-Generation-Sequence (NGS) reads
+# Identifying mutations in Next-Generation Sequence (NGS) reads
 
 ## Title & Purpose
 This Colab notebook compares 6,000 aligned sequencing reads from fission yeast against a 200-nt reference to find mismatches, and tests whether samples treated with a genotoxic agent show more mutations, or mutation hotspots, than untreated controls.
 
 ## How to run the program
-Open `C7147_Project_1_assessment.ipynb` in Google Colab (use the "Open in Colab" badge) and choose **Runtime → Run all**. Cells must run in order, because later steps reuse earlier functions.
+Open the notebook in Google Colab ([open in Colab](https://colab.research.google.com/github/Rudie-K/PFL_Project1/blob/main/C7147_Project_1_assessment.ipynb)) and choose **Runtime → Run all**. Cells must run in order, because later steps reuse earlier functions.
 
 ## Inputs and outputs
 **Inputs:** `reference.txt` (200-nt reference) and `reads.csv` (read_id, sample, group, sequence), downloaded automatically by the setup cells.
