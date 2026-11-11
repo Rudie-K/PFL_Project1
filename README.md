@@ -1,4 +1,4 @@
-# Identifying mutations in Next-Generation Sequence (NGS) reads
+# Identifying mutations in Next-Generation Sequencing (NGS) reads
 
 ## Title & Purpose
 This Colab notebook compares 6,000 aligned sequencing reads from fission yeast against a 200-nt reference to find mismatches, and tests whether samples treated with a genotoxic agent show more mutations, or mutation hotspots, than untreated controls.
